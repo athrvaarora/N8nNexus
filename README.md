@@ -1,4 +1,4 @@
-# N8NNexus - AI-Powered Workflow Generator
+![image](https://github.com/user-attachments/assets/8fb05bdf-0330-4227-8caa-574551f4aac4)# N8NNexus - AI-Powered Workflow Generator
 
 N8NNexus is an intelligent automation tool that creates n8n workflows based on natural language input. By leveraging OpenAI models and a knowledge base of workflow templates stored in Pinecone, it can generate functional n8n workflows tailored to your requirements.
 
@@ -166,6 +166,10 @@ The image shows the complete flow from input trigger through embedding, template
     *   It will return a link to the newly created workflow
     *   You can then open, modify, and activate this workflow
 
+## Sample Input 
+![Sample Prompt Image](Screenshot/1_(2).png)
+
+
 ## How It Works
 
 1.  **Input Processing**:
@@ -195,6 +199,12 @@ Output:
 
 
 `I've created a workflow based on your requirements! You can access it here: https://your-n8n-instance.com/workflow/ABC123 This workflow: 1. Monitors a Slack channel for specified keywords 2. Collects and processes conversation history 3. Uses OpenAI to generate concise summaries 4. Sends a formatted daily report via email`
+
+
+## Example Output
+![Example Prompt Image](Screenshot/Ex.png)
+
+![Example Image](Screenshot/Ex2.png)
 
 ## Troubleshooting
 
