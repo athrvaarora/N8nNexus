@@ -25,9 +25,9 @@ The system consists of two main components:
 
 ## Flow Architecture
 
-![Primary Flow Architecture Image](Screenshot/1.png)
+![Primary Flow Architecture Image](Screenshot/Primary.png)
 
-![Secondary Flow Architecture Image](Screenshot/2.png)
+![Secondary Flow Architecture Image](Screenshot/Secondary.png)
 
 The image shows the complete flow from input trigger through embedding, template matching, workflow generation, and validation.
 ## Setup Instructions
